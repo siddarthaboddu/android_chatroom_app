@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406766707485",
+    "firebase_url": "https://chatapp-c0ad9.firebaseio.com",
+    "project_id": "chatapp-c0ad9",
+    "storage_bucket": "chatapp-c0ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406766707485:android:79ad6903088c16ed",
+        "android_client_info": {
+          "package_name": "siddu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406766707485-dcju9irq45n2fn3okrh192k94bur0ko8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyU382yTHrWB1XXS7xY5lgWDamcZiwkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
